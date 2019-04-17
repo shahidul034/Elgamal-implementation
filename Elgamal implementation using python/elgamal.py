@@ -1,4 +1,6 @@
-
+# MD Shahidul Salim (Shakib)
+# ROll: 1507034
+# CSE,KUET
 
 def gen(g, p):
     E=[]
